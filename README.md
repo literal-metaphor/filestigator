@@ -8,7 +8,7 @@ TODO: Still in development, this will be written later
 
 ## Features
 ### File Name and Extension Analysis (In Progress)
-Detect suspicious characteristics in file names, such as potentially encoded message, suspicious extensions (e.g. filename.php.jpg), null bytes and other dangerous characters.
+Detect suspicious characteristics in file names, such as suspicious extensions (e.g. filename.php.jpg), null bytes and other dangerous characters.
 ### Magic Numbers and Content Inspection (In Progress)
 Identify and detect mismatches between the file type declared in its magic numbers and file extension, as well as the actual content of the page.
 ### Embedded Script Detection (In Progress)
