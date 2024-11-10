@@ -1,5 +1,8 @@
 # Filestigator 🕵
 
+## ⚠ WARNING
+Filestigator is a new and in-development project. Some of the features may be unstable and can cause fatal error. USE THIS AT YOUR OWN DISCRETION!!!
+
 ## Short Summary
 Filestigator is a CLI tool to help investigate a potentially malicious file by assigning a "suspicion score" based on findings like suspicious file name, malformed file extension, file content or magic numbers mismatch, and embedded script.
 
